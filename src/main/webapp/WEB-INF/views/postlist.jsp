@@ -28,7 +28,7 @@
   	<td><a href="/manager/readposting?managerbno=${managervo.managerbno}">${managervo.title}</a></td>
   	<td>${managervo.writedate}</td>
    
-  	 <!-- ㅎㅎ -->
+  	 
   </tr>
   
   </c:forEach>
