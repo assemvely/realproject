@@ -17,7 +17,8 @@
 				<li>상세내용:${READ.posting}</li>
 			 
 	 
-	 			 
+	 			 <!-- afdsfa
+	 			  -->
 	 			 <!-- gkgkgk -->
 			 	
 <!-- diiiiiiii" -->
