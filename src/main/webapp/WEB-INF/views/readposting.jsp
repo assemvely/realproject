@@ -16,7 +16,7 @@
 			
 				<li>상세내용:${READ.posting}</li>
 			 
-	 
+	 <!-- 된다잉!! -->
 	 			 <!-- afdsfa
 	 			  -->
 	 			 <!-- gkgkgk -->
